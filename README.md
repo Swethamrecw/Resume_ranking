@@ -18,7 +18,7 @@ This is an AI-powered resume screening and ranking system built using Streamlit 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/resume-screening.git
+   git clone https://github.com/Swethamrecw/Resume_ranking/tree/main
    cd resume-screening
    ```
 2. Install dependencies:
